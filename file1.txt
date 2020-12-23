@@ -1,1 +1,3 @@
 hello world !!
+just added a new line...
+closing now in 3, 2, 1 :)
